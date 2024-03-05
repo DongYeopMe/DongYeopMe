@@ -1,14 +1,18 @@
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=프로필&fontSize=80&animation=fadeIn&fontAlignY=60" />
-  
-####  :wave: Welcome my github profile !
+  <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=60" />
+
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-DD0700?style=for-the-badge&logo=java&logoColor=#white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=#white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
