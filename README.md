@@ -1,6 +1,6 @@
-<br> <- 줄바꿈 명령어
-<p align="center"> <- 안에 center는 가운데 정렬
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=제목이름%20Hub&fontSize=80&animation=fadeIn&fontAlignY=60" /> <- 내 readMe 타이틀
+<br>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=제목이름%20Hub&fontSize=80&animation=fadeIn&fontAlignY=60" />
 </p>
 <div align="center">
   <h2>단락제목</h2>
