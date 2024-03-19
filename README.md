@@ -27,7 +27,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[https://velog.io/@oka1313](https://dongyeopme.gitbook.io/yeop-blog/)">
+  <a href="https://dongyeopme.gitbook.io/yeop-blog/">
     <img src="https://img.shields.io/badge/Gitbook-BBDDE5?style=for-the-badge&logo=gitbook&logoColor=black" />&nbsp
   </a>
   <a href="mailto:dlduq29@gmail.com">
