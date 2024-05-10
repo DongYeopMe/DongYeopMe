@@ -35,6 +35,3 @@
       src="https://img.shields.io/badge/dlduq29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dongyeopme&show_icons=true">
-</div>
