@@ -30,8 +30,8 @@
   <a href="https://dongyeopme.gitbook.io/yeop-blog/">
     <img src="https://img.shields.io/badge/Gitbook-BBDDE5?style=for-the-badge&logo=gitbook&logoColor=black" />&nbsp
   </a>
-  <a href="mailto:dlduq29@gmail.com">
+  <a href="mailto:dyplee22@gmail.com">
     <img
-      src="https://img.shields.io/badge/dlduq29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dyplee22@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
